@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Passionate DevOps and Backend Engineer
+- Expert in solving complex problems with efficient solutions
+- Focused on streamlining processes and eliminating inefficiencies
+- Skilled in automating workflows to boost productivity
+- Always exploring and experimenting with new technologies
